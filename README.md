@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @UnfazedAy
+-🌛 I'm a software engineer at alx
 - 👀 I’m interested in softwares, mathematics and products.
 - 🌱 I’m currently learning software engineering
 - 💞️ I’m looking to collaborate on coding and software programmes
